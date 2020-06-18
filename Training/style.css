@@ -1,0 +1,11 @@
+  p {
+	width: 600px;
+  }
+.film {
+	Height:400px;
+	width:400px;
+	position:absolute;
+	top:150px;
+	left:800px;
+	border-radius:25px;
+}

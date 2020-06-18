@@ -1,0 +1,57 @@
+  p {
+	   color: red;
+	   }
+  body {
+	  background-Color: Black;
+       } 
+   H1 {
+	   Color: red;
+	   margin:0;
+   }
+    H2 {
+	  color: darkred;
+	}
+    H3 {
+		color: darkred;
+	}
+   HR {
+	 Margin:0;
+   }
+   Header {
+	   Background-color: Darkred;
+	   border-radius: 25px;
+	   height: 100px
+   }
+ .logo {
+    width: 120px;
+	height: 60px;
+    Border-radius: 25px;
+ }
+  Nav {
+	 position: absolute;
+	 Left: 120px;
+	 top: 80px;
+ }
+ nav ul {
+	 margin: 0;
+	 padding: 0;
+	 list-style: none;
+ }
+ nav li  {
+	 display: inline-block;
+	 margin-left: 70px
+ }
+ nav a {
+	 color: red;
+	 text-decoration: none;
+	 text-transform: uppercase;
+ }
+ nav a:hover  {
+	 color: black;
+ }
+footer{
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  background: #111;
+}
