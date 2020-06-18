@@ -1,0 +1,11 @@
+  p {
+	   width:600px;
+  }
+.Power {
+	Height: 400px;
+	width:500px;
+	position:absolute;
+	left:800px;
+	top:130px;
+	border-radius:25;
+}
