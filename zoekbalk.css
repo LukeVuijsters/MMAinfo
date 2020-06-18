@@ -26,38 +26,6 @@
     width: 120px;
 	height: 60px;
     Border-radius: 25px;
- }
-  Nav {
-	 position: absolute;
-	 Left: 120px;
-	 top: 80px;
- }
- nav ul {
-	 margin: 0;
-	 padding: 0;
-	 list-style: none;
- }
- nav li  {
-	 display: inline-block;
-	 margin-left: 70px
- }
- nav a {
-	 color: red;
-	 text-decoration: none;
-	 text-transform: uppercase;
- }
- nav a:hover  {
-	 color: black;
- }
-footer{
-  position: fixed;
-  bottom: 0px;
-  width: 100%;
-  background: #111;
-}
-  p {
-	   width:600px;
-  }
 .Power {
 	Height: 400px;
 	width:500px;
@@ -158,3 +126,35 @@ footer{
 	left:800px;
 	border-radius:25px;
 }
+ }
+  Nav {
+	 position: absolute;
+	 Left: 120px;
+	 top: 80px;
+ }
+ nav ul {
+	 margin: 0;
+	 padding: 0;
+	 list-style: none;
+ }
+ nav li  {
+	 display: inline-block;
+	 margin-left: 70px
+ }
+ nav a {
+	 color: red;
+	 text-decoration: none;
+	 text-transform: uppercase;
+ }
+ nav a:hover  {
+	 color: black;
+ }
+footer{
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  background: #111;
+}
+  p {
+	   width:600px;
+  }
